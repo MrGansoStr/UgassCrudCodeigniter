@@ -1,0 +1,8 @@
+Sistema de Vista de recibos y pagos WaterUgass
+- Carlos David Huanca Choque 120%
+
+Usuarios de prueba:
+
+21213322 Alcides  PERSONA NORMAL
+
+26587322 Cutipa ADMIN
